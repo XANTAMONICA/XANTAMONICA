@@ -1,0 +1,8 @@
+- 👋 Hi, I’m monica
+- 👀 I’m interested in Malware
+- 🌱 I’m currently learning C++ , Computer Organization and Architecture , Math , Basic Network
+
+<!---
+XANTAMONICA/XANTAMONICA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
