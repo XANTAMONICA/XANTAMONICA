@@ -1,6 +1,7 @@
 - 👋 Hi, I’m monic.
 - 👀 I’m interested in Malware and Desktop programming.
-- 🌱 I’m currently learning C++ , Computer Organization and Architecture , Math and Basic Network.
+- 🌱 I’m currently learning C++ , Computer Organization and Architecture and Basic Network.
+- 
 
 <!---
 XANTAMONICA/XANTAMONICA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
