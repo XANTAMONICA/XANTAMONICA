@@ -6,6 +6,7 @@
 - 🤖 I want to join good university, i mean university who have great in comsci , it , comen or se.
 - 🦿 I don't like to play any sport but not for e-sport lol.
 - 💻 I really like to programming alot!
+- 👓 My hobby is programming for my project , playing some game , watching some movie , coding for problem soving and sleep.
 
 <!---
 XANTAMONICA/XANTAMONICA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
