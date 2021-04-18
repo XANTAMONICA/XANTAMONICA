@@ -3,7 +3,7 @@
 - 🌱 <strong>I’m currently learning</strong> C++ , Computer Organization and Architecture and Basic Network.
 - 🎒 <strong>I like to study</strong> Computer , Astronomy , Math and World War history.
 - 🦿 <strong>I don't like to play any sport</strong> but not for e-sport lol.
-- 🥟 <strong>I really really like to eat</strong> dumpling alot and pizza too. 
+- 🥟 <strong>I really really like to eat</strong> dumpling and pizza alot. 
 
 <!---
 XANTAMONICA/XANTAMONICA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
