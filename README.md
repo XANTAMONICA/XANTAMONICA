@@ -1,3 +1,2 @@
 <img src="burger.gif" alt="80's buger">
-
-burger are the best food of the world
+<h2>BURGER ARE THE BEST FOOD OF MY WORLD!!!</h2>
