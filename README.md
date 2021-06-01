@@ -1,5 +1,5 @@
-<h2>DUMPLING ARE THE BEST FOOD IN MY WORLD!!!</h2>
-<img src="dumpling.gif" alt="dumpling">
+<h2>I LIKE TEA.</h2>
+<img src="tea.gif" alt="tea">
 
 <h2>I REALLY REALLY LIKE TO LEARN ABOUT MALWARE, TECH AND A LITTLE BIT OF MATH.</h2>
 <img src="malware.gif" alt="mal joke">
