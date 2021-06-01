@@ -1,5 +1,5 @@
-<h2>SAUSAGE ARE THE BEST FOOD IN MY WORLD!!!</h2>
-<img src="sausage.gif" alt="sausage">
+<h2>DUMPLING ARE THE BEST FOOD IN MY WORLD!!!</h2>
+<img src="dumpling.gif" alt="dumpling">
 
 <h2>I REALLY REALLY LIKE TO LEARN ABOUT MALWARE, TECH AND A LITTLE BIT OF MATH.</h2>
 <img src="malware.gif" alt="mal joke">
